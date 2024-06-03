@@ -1,6 +1,7 @@
 # dream-game
 
-Game title : DreamGame 
+Game title : DreamGame.
+
 Setting :The game is set in a labyrinth world with a dark atmosphere. Imagine being Pac-Man but as a human running through a maze of twisting corridors  and being chased by horrific cube-like monster.
 Concept: Endable runner-like game where players control a character who must avoid obstacles and escape from constant chaser.
 
@@ -17,10 +18,12 @@ Core mechanics:
 Actors and Components:
  Main Character  - Runner. The runner is a dynamic and agile character, designed for fast-paced movement through a labyrinth environment. 
  Abilities : 
+ 
    - Run. The runner's forward / side  movement is controlled by the player. The player can control the direction of the runner. 
    - Jump.  The runner can perform a high jump to avoid high obstacles and reach elevated items.
-   - Double jump. The runner can perform a second jump while in mid-air
+   - Double jump. The runner can perform a second jump while in mid-air.
    - Crouching. The runner can crouch to pass under low obstacles.
+
 Attributes :
   -  Speed. The runner's speed is influenced by various actions and conditions. The runner can accelerate to a maximum speed if they constantly run for atleast 2 seconds. The runner's speed can be reduced by certain actions or obstacles like crouching or collisions with terrain. 
   -  Health. Displayed on the screen. The runner has a health meter that decreases when colliding with certain obstacles. Health can be restored by collecting health pick-ups.
